@@ -149,7 +149,7 @@ header {
 
 /* ========== HERO SECTION (Home) ========== */
 .hero {
-    background: url('/images/bg-home.png') center repeat;
+    background: url('images/bg-home.png') center repeat;
     min-height: 78vh;
     display: flex;
     align-items: center;
